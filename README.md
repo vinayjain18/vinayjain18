@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Jain</h1>
-<h3 align="center">A 3rd-year undergraduate student pursuing a B.E in Artificial Intelligence and Data Science with an interest in Data Science, ML, and Cloud computing.</h3>
+<h3 align="center">A 4th-year undergraduate student pursuing a B.E in Artificial Intelligence and Data Science with honors in Blockchain. My interest lies in Data Science, ML, and Cloud computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayjain18&label=Profile%20views&color=0e75b6&style=flat" alt="vinayjain18" /> </p>
 
