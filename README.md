@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vinay Jain</h1>
-<h3 align="center">A 4th-year undergraduate student pursuing a B.E in Artificial Intelligence and Data Science with honors in Blockchain. My interest lies in Data Science, ML, and Cloud computing.</h3>
+<h3 align="center">I have completed a Bachelor of Engineering in Artificial Intelligence and Data Science with Honours in Blockchain
+from Shah and Anchor Kutchhi Engineering College, Mumbai. I have hands-on experience in Machine Learning and Data
+Engineering projects and am proficient in Python, SQL, and Data analysis. I always look for new ways to apply my skills
+and stay current with the latest technology trends.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayjain18&label=Profile%20views&color=0e75b6&style=flat" alt="vinayjain18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayjain18" alt="vinayjain18" /></a> </p>
 
-- 🔭 I’m currently working on **LinkedIn WebScrapper**
+- 🔭 I’m currently working on **Fluence - Content Planner tool**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **LLM and GenAI**
 
 - 📫 How to reach me **vinayjain449@gmail.com**
 
