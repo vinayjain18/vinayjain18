@@ -8,7 +8,7 @@ Based in **Mumbai, India**, I'm dedicated to developing innovative solutions tha
 
 ## Skills & Technologies
 
-ai,django,flask,fastapi,react,git,docker,graphql,mongodb,postgres,aws,azure,html,css,mysql,nodejs,nextjs
+[![My Skills](https://skillicons.dev/icons?i=ai,django,flask,fastapi,react,git,docker,graphql,mongodb,postgres,aws,azure,html,css,mysql,nodejs,nextjs&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
